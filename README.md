@@ -1,0 +1,2 @@
+# yukleniyorAnimasyonu
+Consolda "Yükleniyor/" animasyonu.
